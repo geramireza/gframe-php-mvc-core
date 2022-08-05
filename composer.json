@@ -1,0 +1,10 @@
+{
+    "name": "gframe/gframe-php-mvc-core",
+    "authors": [
+        {
+            "name": "Reza Gerami",
+            "email": "r.gerami25@gmail.com"
+        }
+    ],
+    "require": {}
+}
