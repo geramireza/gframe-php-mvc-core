@@ -1,6 +1,6 @@
 <?php
 
-namespace App\core\exceptions;
+namespace gframe\phpmvc\exceptions;
 
 use Exception;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\core\middlewares;
+namespace gframe\phpmvc\middlewares;
 
 abstract class Middleware
 {

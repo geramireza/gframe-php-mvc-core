@@ -1,9 +1,9 @@
 <?php
 
-namespace App\core\middlewares;
+namespace gframe\phpmvc\middlewares;
 
-use App\core\Application;
-use App\core\exceptions\ForbidenException;
+use gframe\phpmvc\Application;
+use gframe\phpmvc\exceptions\ForbidenException;
 
 class AuthMiddleware extends Middleware
 {

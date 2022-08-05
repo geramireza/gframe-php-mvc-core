@@ -1,6 +1,6 @@
 <?php
 
-namespace App\core;
+namespace gframe\phpmvc;
 
 use App\Controllers\Controller;
 use App\Models\Model;

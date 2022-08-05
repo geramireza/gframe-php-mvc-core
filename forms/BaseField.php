@@ -1,6 +1,6 @@
 <?php
 
-namespace App\core\forms;
+namespace gframe\phpmvc\forms;
 
 use App\Models\Model;
 

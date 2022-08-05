@@ -1,8 +1,8 @@
 <?php
 
-namespace App\core;
+namespace gframe\phpmvc;
 
-use App\core\exceptions\NotFoundException;
+use gframe\phpmvc\exceptions\NotFoundException;
 
 class Router
 {
